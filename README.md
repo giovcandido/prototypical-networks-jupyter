@@ -4,6 +4,8 @@ Prototypical Networks for image classification on Omniglot and mini-ImageNet. Ma
 # How to use
 Follow the instructions in the notebook and have fun!
 
+It was tested with Python3 in Debian 10.
+
 # Acknowledgements
 This project was based on:
 * [Cyprien Nielly](https://github.com/cnielly/prototypical-networks-omniglot) implementation of Prototypical Networks.
